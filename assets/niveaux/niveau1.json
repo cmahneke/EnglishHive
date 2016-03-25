@@ -1,0 +1,79 @@
+{
+    "nom":"Niveau1",
+    "tunnels": [
+        {
+            "id": "supGaucheTunnel",
+            "chemin": "assets/tunnel-01.png", 
+            "posX" : 0,
+            "posY" : 0
+        },
+        {
+            "id": "supDroiteTunnel",
+            "chemin": "assets/tunnel-02.png",
+            "posX" : 636,
+            "posY" : 0
+        },
+        {
+            "id": "infGaucheTunnel",
+            "chemin": "assets/tunnel-03.png",
+            "posX" : 0,
+            "posY" : 272
+        },
+        {
+            "id": "infDroiteTunnel",
+            "chemin": "assets/tunnel-04.png",
+            "posX" : 636,
+            "posY" : 272
+        }
+    ],
+    "coquerelles" : [
+        {
+            "id" : "insecte1",
+            "chemin": "assets/persoHive/insecte1.png",
+            "json": "assets/persoHive/insecte1.json"
+            
+        },{
+            "id" : "insecte2",
+            "chemin": "assets/persoHive/insecte2.png",
+            "json": "assets/persoHive/insecte2.json"
+            
+        },
+        {
+            "id" : "insecte3",
+            "chemin": "assets/persoHive/insecte3.png",
+            "json": "assets/persoHive/insecte3.json"
+
+        },
+        {
+            "id" : "insecte4",
+            "chemin": "assets/persoHive/insecte4.png",
+            "json": "assets/persoHive/insecte4.json"
+            
+        },
+        {
+            "id" : "insecte5",
+            "chemin": "assets/persoHive/insecte5.png",
+            "json": "assets/persoHive/insecte5.json"
+           
+        },{
+            "id" : "insecte6",
+            "chemin": "assets/persoHive/insecte6.png",
+            "json": "assets/persoHive/insecte6.json"
+           
+        },{
+            "id" : "insecte7",
+            "chemin": "assets/persoHive/insecte7.png",
+            "json": "assets/persoHive/insecte7.json"
+           
+        },
+        {
+            "id" : "insecte8",
+            "chemin": "assets/persoHive/insecte8.png",
+            "json": "assets/persoHive/insecte8.json"
+           
+        }
+    ],
+    "verbesIrreg" : [" make", " run", " swim", " have", " do", " read", " be", " begin", " break", " eat"],
+    "verbesReg" : [" like", " love", " hate", " play", "  stop", " agree", " cry", " push", " rain", " try"]
+    
+}

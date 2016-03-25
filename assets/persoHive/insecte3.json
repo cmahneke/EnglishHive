@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"insecte_030000":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030001":
+{
+	"frame": {"x":120,"y":0,"w":121,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030002":
+{
+	"frame": {"x":241,"y":0,"w":122,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030003":
+{
+	"frame": {"x":363,"y":0,"w":122,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030004":
+{
+	"frame": {"x":0,"y":115,"w":120,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030005":
+{
+	"frame": {"x":120,"y":115,"w":121,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030006":
+{
+	"frame": {"x":241,"y":115,"w":121,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030007":
+{
+	"frame": {"x":362,"y":115,"w":122,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030008":
+{
+	"frame": {"x":0,"y":230,"w":122,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+},
+"insecte_030009":
+{
+	"frame": {"x":122,"y":230,"w":120,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":123,"h":115},
+	"sourceSize": {"w":123,"h":115}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "14.0.0.110",
+	"image": "insecte3.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}
