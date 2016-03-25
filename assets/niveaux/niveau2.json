@@ -1,0 +1,16 @@
+{
+    "nom":"Niveau2",
+    
+    "mouches" : [
+        {
+
+            "id" : "ailes",
+            "chemin": "assets/persoHive/ailes.png",
+            "json": "assets/persoHive/ailes.json"
+            
+        }
+    ],
+    "verbes_d" : [" like", " love", " hate", " have", " agree", " smile", " waste", " bake", " dance", " solve"],
+    "verbes_ed" : [" follow", " work", " talk", " play", "  learn", " smell", " enjoy", " push", " pull", " wash"]
+    
+}
