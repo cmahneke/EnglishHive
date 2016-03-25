@@ -7,6 +7,6 @@ College Maisonneuve
 
 by Cristina Mahneke 2015 All rights reserved
 
-English Hive is a prototype of an educational game to faclitated second language learning.
+English Hive is a prototype of an educational game to faclitate second language learning.
 
 The varibales are currently set quite low: squash 5 bugs in order to win a level.
