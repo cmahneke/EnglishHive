@@ -1,0 +1,6 @@
+{
+  "name": "English Hive",
+  "tagline": "Squash the bugs to learn your verbs",
+  "body": "<iframe src=\"https://github.com/cmahneke/EnglishHive/blob/master/jeu.html\" name=\"EnglishHive\"    width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\">   <p>Your browser does not support iframes.</p></iframe>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
