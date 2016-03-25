@@ -9,4 +9,4 @@ by Cristina Mahneke 2015 All rights reserved
 
 English Hive is a prototype of an educational game to facilitate second language learning.
 
-The variales are currently set quite low: squash 5 bugs in order to win a level.
+The variables' values are currently set quite low: squash 5 bugs in order to win a level.
